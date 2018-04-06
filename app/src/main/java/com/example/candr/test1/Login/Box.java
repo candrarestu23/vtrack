@@ -17,7 +17,7 @@ import com.example.candr.test1.MySQL.Downloader;
  */
 
 public class Box extends Activity {
-    final static String urlAddress="http://10.0.3.2/vtrack/logistik.php";
+    final static String urlAddress="http://projectapps.xyz/vtrack/logistik.php";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

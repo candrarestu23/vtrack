@@ -32,7 +32,7 @@ public class Login extends AppCompatActivity {
     private ProgressDialog pDialog;
 
     //URL to our login.php file, url bisa diganti sesuai dengan alamat server kita
-    public static final String LOGIN_URL = "http://10.0.3.2/vtrack/relawan.php";
+    public static final String LOGIN_URL = "http://projectapps.xyz/vtrack/relawan.php";
 
     //Keys for email and password as defined in our $_POST['key'] in login.php
     public static final String KEY_EMAIL = "username";

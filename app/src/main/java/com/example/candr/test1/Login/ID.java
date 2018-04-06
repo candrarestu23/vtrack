@@ -18,7 +18,7 @@ import com.example.candr.test1.dataModel;
  */
 
 public class ID extends Activity {
-    final static String urlAddress = "http://10.0.3.2/vtrack/kendaraan.php";
+    final static String urlAddress = "http://projectapps.xyz/vtrack/kendaraan.php";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -17,7 +17,7 @@ import com.example.candr.test1.MySQL.Kiriman;
  */
 
 public class history extends Activity {
-    final static String urlAddress = "http://10.0.3.2/vtrack/kiriman.php";
+    final static String urlAddress = "http://projectapps.xyz/vtrack/kiriman.php";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
